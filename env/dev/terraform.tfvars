@@ -1,0 +1,1 @@
+db_password = "ka7hakusai"
