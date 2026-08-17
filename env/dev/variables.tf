@@ -17,8 +17,3 @@ variable "acm_certificate_arn" {
   description = "ACM Certificate ARN for ALB HTTPS Listener"
 }
 
-variable "db_password" {
-  type        = string
-  description = "Database password"
-  sensitive   = true
-}
